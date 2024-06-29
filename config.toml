@@ -1,7 +1,7 @@
 theme = "duckquill"
 title = "arfh.site"
-base_url = "https://arfh.site"
-#description = "Modern, pretty, and clean theme."
+# base_url = "https://arfh.site"
+# description = "Modern, pretty, and clean theme."
 
 default_language = "en"
 compile_sass = true
