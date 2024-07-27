@@ -1,5 +1,5 @@
 theme = "duckquill"
-title = "arfh.site"
+title = "arfh"
 base_url = "https://arfh.pages.dev"
 # description = "Modern, pretty, and clean theme."
 
@@ -16,10 +16,10 @@ taxonomies = [{ name = "tags", feed = true }]
 [markdown]
 highlight_code = true
 highlight_theme = "css"
-# highlight_themes_css = [
-#   { theme = "solarized-dark", filename = "syntax-theme-dark.css" },
-#   { theme = "solarized-light", filename = "syntax-theme-light.css" },
-# ]
+highlight_themes_css = [
+   { theme = "solarized-dark", filename = "syntax-theme-dark.css" },
+   { theme = "solarized-light", filename = "syntax-theme-light.css" },
+ ]
 smart_punctuation = true
 
 [extra]
