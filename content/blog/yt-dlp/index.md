@@ -112,8 +112,8 @@ yt-dlp --help
 atau bisa juga dilihat [disini](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#usage-and-options) 
 
 ## Referensi dan bacaan menarik
-- [Github repository yt-dlp](https://github.com/yt-dlp/yt-dlp) dan [wiki](https://github.com/yt-dlp/yt-dlp/wiki)
-- [Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
-- [Github repository youtube-dl](https://github.com/ytdl-org/youtube-dl)
-- [yt-dlp - ArchWiki](https://wiki.archlinux.org/title/Yt-dlp)
-- [GUI's for yt-dlp/youtube-dl - r/youtubedl](https://www.reddit.com/r/youtubedl/wiki/info-guis)
+- <a class="external" href="https://github.com/yt-dlp/yt-dlp" target="_blank">Github repository yt-dlp</a> dan <a class="external" href="https://github.com/yt-dlp/yt-dlp/wiki" target="_blank">wiki</a> <br>
+- <a class="external" href="https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md" target="_blank">Supported sites</a> <br>
+- <a class="external" href="https://github.com/ytdl-org/youtube-dl" target="_blank">Github repository youtube-dl</a><br>
+- <a class="external" href="https://wiki.archlinux.org/title/Yt-dlp" target="_blank">yt-dlp - ArchWiki</a><br>
+- <a class="external" href="https://www.reddit.com/r/youtubedl/wiki/info-guis" target="_blank">GUI's for yt-dlp/youtube-dl - r/youtubedl</a><br>
