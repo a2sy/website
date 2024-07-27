@@ -1,7 +1,7 @@
 +++
 authors = ["Arif"]
-title = "Download Video dengan Aman dan Mudah dari YouTube (dan Situs Lainnya) dengan yt-dlp"
-description = "Lorem ipsum dolor sit amet."
+title = "Cara mudah download video menggunakan yt-dlp"
+description = "Download video dengan mudah dari YouTube, bilibili, dan berbagai platform streaming video lainnya dengan yt-dlp."
 date = 2024-07-27
 draft=false
 [taxonomies]
