@@ -5,7 +5,7 @@ insert_anchor_links = "right"
 
 {% crt() %}
 ```
-[arfh@potato-dualboot ~]$ pwd
+arifardia@site ~> pwd
 /home/arfh
 ```
 {% end %}
