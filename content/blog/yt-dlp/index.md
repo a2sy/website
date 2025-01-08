@@ -5,7 +5,7 @@ description = "Download video dengan mudah dari YouTube, bilibili, dan berbagai 
 date = 2024-07-27
 draft=false
 [taxonomies]
-tags = ["cli"]
+tags = ["command-line"]
 [extra]
 toc = true
 +++
