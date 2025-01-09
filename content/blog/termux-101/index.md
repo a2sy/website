@@ -30,10 +30,9 @@ Disarankan untuk tidak mengunduh termux melalui google playstore, termux dapat d
 {{ image(url="download_termux_fdroid.png", alt="download termux on f-droid" no_hover=true) }}
 
 # Hal yang dapat dilakukan setelah memasang Termux
-Ada beberapa hal yang mungkin dibutuhkan setelah memasang Termux, beberapa diantaranya yaitu: 
-
 {{ image(url="homescreen_termux.png", alt="termux homescreen" no_hover=true) }}
 
+Ada beberapa hal yang mungkin dibutuhkan setelah memasang Termux, beberapa diantaranya yaitu: 
 
 ## Memperbarui repositori dan packages
 Perintah ini akan memperbarui daftar packages dari repositori Termux
@@ -49,7 +48,7 @@ Opsi -y secara otomatis menjawab "yes" untuk semua pertanyaan konfirmasi, sehing
 {{ image(url="update_upgrade_termux.png", alt="update upgrade termux" no_hover=true) }}
 
 ## Memasang packages pada Termux
-untuk memasang packages (software) pada termux, cukup mengetik `pkg install <nama-packages>` pada terminal termux
+Untuk memasang packages (software) pada termux, cukup mengetik `pkg install <nama-packages>` pada terminal termux
 
 Contoh, untuk memasang `neofetch`, ketikkan:
 ```bash
@@ -84,7 +83,6 @@ setelah `openssh` berhasil terpasang, sekarang Anda sudah bisa terhubung dengan 
 ssh -p 22 <username>@<host/ip_address>
 ```
 
-
 # Perintah Dasar Termux
 Berikut beberapa perintah dasar yang perlu diketahui untuk berinteraksi dengan Termux
 - `pkg update` atau `apt update`: Memperbarui daftar packages yang tersedia
@@ -100,7 +98,6 @@ Berikut beberapa perintah dasar yang perlu diketahui untuk berinteraksi dengan T
 - `exit`: Keluar dari termux
 
 # Referensi dan bacaan menarik
-- [A simple Termux tutorial for beginners - Ivon's Blog](https://ivonblog.com/en-us/posts/how-to-use-termux/)
 - <a class="external" href="https://ivonblog.com/en-us/posts/how-to-use-termux/" target="_blank">A simple Termux tutorial for beginners - Ivon's Blog</a> <br>
 - <a class="external" href="https://wiki.termux.com/wiki/" target="_blank">Termux Wiki</a> <br>
 - <a class="external" href="https://github.com/termux/termux-app" target="_blank">Termux Github Repository</a> <br>
